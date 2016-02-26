@@ -65,7 +65,7 @@ deploy:
 
 如果是通过 git 或者 Github 部署的，则需要通过`npm install hexo-deployer-git --save`先安装 hexo-deployer-git 插件。
 
-当然也可以安装 [Hexo] 提供的 [插件](http://hexo.io/plugins) 插件，然后通过 `hexo d[eploy]` 迁移
+当然也可以安装 [Hexo] 提供的 [插件](http://hexo.io/plugins) ，然后通过 `hexo m[igrate] <type>` 迁移，最后通过 `hexo d[eploy]` 来部署。
 
 ### 我安装的几个插件
 
@@ -79,7 +79,7 @@ deploy:
 
 ### 总结
 
-该说的上面已经说了，总的来说还是很棒的。最后决定把评论系统从 [Disqus](https://disqus.com) 迁移到[多说](http://duoshuo.com)，毕竟多说是国内的，速度应该会快很多，Disqus 说不定哪天就被墙了。不说了，走起~
+该说的上面已经说了，总的来说还是很棒的。最后决定把评论系统从 [Disqus](https://disqus.com) 迁移到[多说](http://duoshuo.com)，毕竟多说是国内的，速度应该会快很多，Disqus 说不定哪天就被墙了。由于评论内容前一起来非常麻烦，而且评论内容非常少，所以决定评论内容就不迁移了。不说了，走起~
 
 ---
 
