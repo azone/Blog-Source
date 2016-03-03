@@ -7,7 +7,7 @@ tags:
 categories: Other
 ---
 
-上周我讲自己的博客从 Octopress 迁移到了 Hexo，感觉还是很不错的，但是由于Octopress 和 Hexo 存在一些差别，所以导致了如下两个问题：
+上周我讲自己的博客从 Octopress 迁移到了 Hexo，感觉还是很不错的，但是由于Octopress 和 Hexo 存在一些差别，所以导致了如下三个问题：
 
 1. 以前 Octopress 的网址是包含 /blog/ 的，迁移之后没了，这样会导致由搜索引擎（搜索引擎更新还是很不及时的）的链接和外网引用的链接点过来会跳到404页面
 2. 生成的网址区分大小写了，以前全部是小写的，这会导致以前的小写链接无法打开相应的页面（如 `categories/xcode`，现在是 `categories/Xcode`）
