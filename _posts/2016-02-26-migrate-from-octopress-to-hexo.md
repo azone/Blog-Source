@@ -88,4 +88,6 @@ deploy:
 [Octopress]: http://octopress.org
 [Hexo]: https://hexo.io
 [Yaml]: http://yaml.org
+[Counter]: http://notes.xiamo.tk/2015-10-21-为NexT主题添加文章阅读量统计功能.html
+
 

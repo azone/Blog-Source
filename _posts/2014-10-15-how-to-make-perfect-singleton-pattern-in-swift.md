@@ -32,10 +32,17 @@ class SomeClass {
         return sharedInstance
     }
     
+    /*
     init() {
         assert(sharedStruct.sharedInstance == nil, "Singleton already initialized!")
+    }
+    */
+    // 这样会更好
+    private init() {
+        // do something.
     }
 }
 ```
 
 以上实现如果有什么不好的地方希望大神们批评、指出，另外如果有更好的方法希望大神们分享。
+
