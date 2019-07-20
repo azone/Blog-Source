@@ -43,8 +43,7 @@ categories: iOS
 
 **参考文档：**
 
-- [UIResponder的keyCommands](https://developer.apple.com/Library/ios/documentation/UIKit/Reference/UIResponder_Class/Reference/Reference.html#jumpTo_5) [![Dash Icon][dash-icon]](dash://UIResponder%20keyCommands)
+- [UIResponder的keyCommands](https://developer.apple.com/Library/ios/documentation/UIKit/Reference/UIResponder_Class/Reference/Reference.html#jumpTo_5) ([在 Dash 中打开](dash://UIResponder%20keyCommands))
 
-- [UIKeyCommand](https://developer.apple.com/Library/ios/documentation/UIKit/Reference/UIKeyCommand_class/Reference/Reference.html#//apple_ref/occ/cl/UIKeyCommand) [![Dash Icon][dash-icon]](dash://UIKeyCommand)
+- [UIKeyCommand](https://developer.apple.com/Library/ios/documentation/UIKit/Reference/UIKeyCommand_class/Reference/Reference.html#//apple_ref/occ/cl/UIKeyCommand) ([在 Dash 中打开](dash://UIKeyCommand))
 
-[dash-icon]: http://kapeli.com/dash_resources/dashHR.png

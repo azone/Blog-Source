@@ -5,6 +5,7 @@ tags:
 - Octopress
 - Hexo
 categories: Other
+mathjax: true
 ---
 
 很久没写过日志了，原因没有别的，实在是鄙人太！懒！了！自己也想不能继续懒下去，所以决定改变从这里开始，先换个静态博客生成系统吧。好吧~，换系统其实和这个没多大关系，主要是因为 Octopress 已经 N 久没有更新了，还有就是对于一个 N 久没有写过博客的人来说，再用 [Octopress] 需要重新熟悉一下，相比之下 [Hexo] 就简单多了，还有就是据说生成速度上 [Octopress] 要比 [Hexo] 慢一大截。下面介绍一下 Mac 下 Hexo 的安装过程吧~
@@ -76,6 +77,7 @@ deploy:
 - [hexo-generator-category](https://github.com/hexojs/hexo-generator-category)，生成分类
 - [hexo-generator-sitemap](https://github.com/hexojs/hexo-generator-sitemap)，生成网站地图
 - [hexo-ruby-character](https://github.com/JamesPan/hexo-ruby-character)，{% ruby 为了好玩  %}装了这个插件😄
+- ~~[hexo-math](https://github.com/akfish/hexo-math) 显示数学方程式和符号等~~ (已使用主题自带功能) $$\sum_{i=1}^n$$
 
 ### 总结
 
